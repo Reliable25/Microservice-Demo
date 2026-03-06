@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\application\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:application\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\application\\handlers\\userloggedinhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:application\\handlers\\userloggedinhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\application\\handlers\\rabbitmqhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:application\\handlers\\rabbitmqhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\infrastructure\\rabbitmq\\usereventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:infrastructure\\rabbitmq\\usereventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\infrastructure\\db\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:infrastructure\\db\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\transactionservice\\infrastructure\\kafka\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED119E-C55F-4CFF-B5E8-EF49855CB751}|TransactionService.csproj|solutionrelative:infrastructure\\kafka\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Infrastructure\\RabbitMQ\\UserEventConsumer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\RabbitMQ\\UserEventConsumer.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Infrastructure\\RabbitMQ\\UserEventConsumer.cs",
+              "RelativeToolTip": "Infrastructure\\RabbitMQ\\UserEventConsumer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:48:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMqHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Application\\Handlers\\RabbitMqHostedService.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\RabbitMqHostedService.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Application\\Handlers\\RabbitMqHostedService.cs",
+              "RelativeToolTip": "Application\\Handlers\\RabbitMqHostedService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:24:46.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoggedInHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Application\\Handlers\\UserLoggedInHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\UserLoggedInHandler.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Application\\Handlers\\UserLoggedInHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\UserLoggedInHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAWwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:46:51.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\API\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\API\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "API\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:50:22.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T11:33:23.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Application\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Application\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:47:37.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "Domain\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:39:06.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T11:25:18.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Infrastructure\\Db\\TransactionDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Db\\TransactionDbContext.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Infrastructure\\Db\\TransactionDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Db\\TransactionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:49:23.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Infrastructure\\Kafka\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Kafka\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\TransactionService\\Infrastructure\\Kafka\\KafkaConsumerService.cs",
+              "RelativeToolTip": "Infrastructure\\Kafka\\KafkaConsumerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T11:16:23.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
