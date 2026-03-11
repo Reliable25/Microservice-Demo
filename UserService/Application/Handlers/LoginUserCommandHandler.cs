@@ -1,21 +1,28 @@
 ﻿using MediatR;
 using UserService.Application.Commands;
 using UserService.Application.Interfaces;
+using UserService.Infrastructure.Kafka;
 
 namespace UserService.Application.Handlers
 {
     public class LoginUserCommandHandler : IRequestHandler<LoginUserCommand, Unit>
     {
-        private readonly IUserEventPublisher _publisher;
+        private readonly IUserEventPublisher _rabbitPublisher;
+        private readonly UserEventProducer _kafkaProducer;
 
-        public LoginUserCommandHandler(IUserEventPublisher publisher)
+        public LoginUserCommandHandler(
+            IUserEventPublisher rabbitPublisher,
+            UserEventProducer kafkaProducer)
         {
-            _publisher = publisher;
+            _rabbitPublisher = rabbitPublisher;
+            _kafkaProducer = kafkaProducer;
         }
-
         public async Task<Unit> Handle(LoginUserCommand request, CancellationToken cancellationToken)
         {
-            await _publisher.PublishUserLoggedInEvent(request.UserId);
+            await _rabbitPublisher.PublishUserLoggedInEvent(request.UserId);
+
+            await _kafkaProducer.PublishAsync($"User {request.UserId} logged in");
+
             return Unit.Value;
         }
     }

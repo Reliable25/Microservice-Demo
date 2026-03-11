@@ -1,6 +1,7 @@
 using RabbitMQ.Client;
 using UserService.Application.Handlers;
 using UserService.Application.Interfaces;
+using UserService.Infrastructure.Kafka;
 using UserService.Infrastructure.RabbitMQ;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -35,8 +36,11 @@ builder.Services.AddSingleton<IModel>(sp =>
 });
 
 
-// Publisher
+// RabbitMQ publisher
 builder.Services.AddSingleton<IUserEventPublisher, UserEventPublisher>();
+
+// Kafka producer
+builder.Services.AddSingleton<UserEventProducer>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\transactionservice\\infrastructure\\kafka\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\infrastructure\\kafka\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\infrastructure\\kafka\\usereventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\infrastructure\\kafka\\usereventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\transactionservice\\application\\handlers\\rabbitmqhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\application\\handlers\\rabbitmqhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E370981A-F669-4B68-9441-1B45052EE885}|Solution Items{E370981A-F669-4B68-9441-1B45052EE885}|C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E370981A-F669-4B68-9441-1B45052EE885}|Solution Items{E370981A-F669-4B68-9441-1B45052EE885}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\transactionservice\\application\\handlers\\userloggedinhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\application\\handlers\\userloggedinhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\transactionservice\\infrastructure\\rabbitmq\\usereventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\infrastructure\\rabbitmq\\usereventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\application\\handlers\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\application\\handlers\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\infrastructure\\rabbitmq\\usereventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\infrastructure\\rabbitmq\\usereventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD72C596-5CD5-4148-8CDB-E442D6CD3A43}|Guide{AD72C596-5CD5-4148-8CDB-E442D6CD3A43}|C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AD72C596-5CD5-4148-8CDB-E442D6CD3A43}|Guide{AD72C596-5CD5-4148-8CDB-E442D6CD3A43}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\application\\interfaces\\iusereventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\application\\interfaces\\iusereventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\application\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\application\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\infrastructure\\db\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\infrastructure\\db\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\transactionservice\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,26 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\transactionservice\\api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7BCA768-32C4-48FF-9F7F-592B4C3A0E4C}|TransactionService\\TransactionService.csproj|solutionrelative:transactionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -59,20 +107,12 @@
       "RelativeMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\apigateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\apigateway\\apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{85743EDE-861D-445F-B7F7-BC8F6E001964}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD72C596-5CD5-4148-8CDB-E442D6CD3A43}|Guide{AD72C596-5CD5-4148-8CDB-E442D6CD3A43}|C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{AD72C596-5CD5-4148-8CDB-E442D6CD3A43}|Guide{AD72C596-5CD5-4148-8CDB-E442D6CD3A43}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F44A60E-D9E8-4DA2-BFF6-D58C1852507E}|UserService\\UserService.csproj|c:\\users\\ietec\\onedrive\\pictures\\canvas\\microservices\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -86,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,71 +134,223 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMqHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Application\\Handlers\\RabbitMqHostedService.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Application\\Handlers\\RabbitMqHostedService.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Application\\Handlers\\RabbitMqHostedService.cs",
+              "RelativeToolTip": "TransactionService\\Application\\Handlers\\RabbitMqHostedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:25:49.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UserLoggedInHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Application\\Handlers\\UserLoggedInHandler.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Application\\Handlers\\UserLoggedInHandler.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Application\\Handlers\\UserLoggedInHandler.cs",
+              "RelativeToolTip": "TransactionService\\Application\\Handlers\\UserLoggedInHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:25:51.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Infrastructure\\Kafka\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Infrastructure\\Kafka\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Infrastructure\\Kafka\\KafkaConsumerService.cs*",
+              "RelativeToolTip": "TransactionService\\Infrastructure\\Kafka\\KafkaConsumerService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:27:28.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Program.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Program.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Program.cs",
+              "RelativeToolTip": "TransactionService\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:24:26.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEventProducer.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Infrastructure\\Kafka\\UserEventProducer.cs",
+              "RelativeDocumentMoniker": "UserService\\Infrastructure\\Kafka\\UserEventProducer.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Infrastructure\\Kafka\\UserEventProducer.cs",
+              "RelativeToolTip": "UserService\\Infrastructure\\Kafka\\UserEventProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:27:50.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Application\\Handlers\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "UserService\\Application\\Handlers\\LoginUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Application\\Handlers\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "UserService\\Application\\Handlers\\LoginUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:48:04.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Infrastructure\\RabbitMQ\\UserEventConsumer.cs",
+              "RelativeDocumentMoniker": "TransactionService\\Infrastructure\\RabbitMQ\\UserEventConsumer.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Infrastructure\\RabbitMQ\\UserEventConsumer.cs",
+              "RelativeToolTip": "TransactionService\\Infrastructure\\RabbitMQ\\UserEventConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:49:57.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-11T12:28:34.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Infrastructure\\RabbitMQ\\UserEventPublisher.cs",
+              "RelativeDocumentMoniker": "UserService\\Infrastructure\\RabbitMQ\\UserEventPublisher.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Infrastructure\\RabbitMQ\\UserEventPublisher.cs",
+              "RelativeToolTip": "UserService\\Infrastructure\\RabbitMQ\\UserEventPublisher.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:48:27.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Program.cs",
               "RelativeDocumentMoniker": "UserService\\Program.cs",
               "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Program.cs",
               "RelativeToolTip": "UserService\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAADEAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T14:43:10.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApiGateway.csproj",
-              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\ApiGateway.csproj",
-              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\ApiGateway.csproj",
-              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-09T11:10:02.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\API\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "UserService\\API\\Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\API\\Controllers\\TransactionController.cs*",
-              "RelativeToolTip": "UserService\\API\\Controllers\\TransactionController.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T13:16:24.131Z",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-06T15:19:02.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "IUserEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Application\\Interfaces\\IUserEventPublisher.cs",
+              "RelativeDocumentMoniker": "UserService\\Application\\Interfaces\\IUserEventPublisher.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Application\\Interfaces\\IUserEventPublisher.cs",
+              "RelativeToolTip": "UserService\\Application\\Interfaces\\IUserEventPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:51:58.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Application\\Commands\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "UserService\\Application\\Commands\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Application\\Commands\\LoginUserCommand.cs",
+              "RelativeToolTip": "UserService\\Application\\Commands\\LoginUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:51:52.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Infrastructure\\DB\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "UserService\\Infrastructure\\DB\\UserDBContext.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Infrastructure\\DB\\UserDBContext.cs",
+              "RelativeToolTip": "UserService\\Infrastructure\\DB\\UserDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:51:36.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\API\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "TransactionService\\API\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\API\\Controllers\\AccountController.cs",
               "RelativeToolTip": "TransactionService\\API\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T12:33:33.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\ocelot.json*",
-              "RelativeToolTip": "ApiGateway\\ocelot.json*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAsAAAA",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-09T11:10:41.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "UserService\\API\\Controllers\\UserController.cs",
@@ -171,12 +363,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\API\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "TransactionService\\API\\Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\API\\Controllers\\TransactionController.cs*",
-              "RelativeToolTip": "TransactionService\\API\\Controllers\\TransactionController.cs*",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\API\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "TransactionService\\API\\Controllers\\TransactionController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T11:34:05.083Z",
@@ -184,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
@@ -196,82 +388,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Program.cs",
-              "RelativeDocumentMoniker": "TransactionService\\Program.cs",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Program.cs",
-              "RelativeToolTip": "TransactionService\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T13:24:26.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TransactionService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TransactionService\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAUAAAAAAAAAAABRwBoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-09T11:27:00.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-09T11:26:10.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAgAAAAAAAAAAABRwBoAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-09T11:22:50.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TransactionService.csproj",
-              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\TransactionService.csproj",
-              "RelativeDocumentMoniker": "TransactionService\\TransactionService.csproj",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\TransactionService.csproj",
-              "RelativeToolTip": "TransactionService\\TransactionService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-09T13:11:48.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ApiGateway\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T13:25:35.7Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "appsettings.json",
@@ -281,11 +397,90 @@
               "RelativeToolTip": "ApiGateway\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-09T11:18:12.783Z"
+              "WhenOpened": "2026-03-09T11:18:12.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T11:10:02.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TransactionService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TransactionService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwBoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T11:27:00.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T11:26:10.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAABhwBoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T11:22:50.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionService.csproj",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\TransactionService.csproj",
+              "RelativeDocumentMoniker": "TransactionService\\TransactionService.csproj",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\TransactionService\\TransactionService.csproj",
+              "RelativeToolTip": "TransactionService\\TransactionService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T13:11:48.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:25:35.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "ApiGateway",
               "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\ApiGateway.csproj",
               "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
@@ -296,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\ApiGateway\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "ApiGateway\\WeatherForecast.cs",
@@ -304,23 +499,12 @@
               "RelativeToolTip": "ApiGateway\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T11:29:12.804Z"
+              "WhenOpened": "2026-03-09T11:29:12.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-06T15:19:02.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ietec\\OneDrive\\Pictures\\Canvas\\Microservices\\UserService\\appsettings.json",
               "RelativeDocumentMoniker": "UserService\\appsettings.json",
@@ -328,7 +512,8 @@
               "RelativeToolTip": "UserService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-06T14:43:06.856Z"
+              "WhenOpened": "2026-03-06T14:43:06.856Z",
+              "EditorCaption": ""
             }
           ]
         }

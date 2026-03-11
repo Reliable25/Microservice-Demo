@@ -9,7 +9,7 @@ namespace TransactionService.Infrastructure.Kafka
             var config = new ConsumerConfig
             {
                 BootstrapServers = "localhost:9092",
-                GroupId = "transaction-service",
+                GroupId = "transaction-service-replay",
                 AutoOffsetReset = AutoOffsetReset.Earliest
             };
 

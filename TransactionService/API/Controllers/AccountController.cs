@@ -17,7 +17,7 @@ public class AccountController : ControllerBase
     {
         return Ok(new
         {
-            Account = ""
+            Account = "account"
         });
     }
 }

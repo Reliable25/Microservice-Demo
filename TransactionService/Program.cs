@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using TransactionService.Application.Handlers;
 using TransactionService.Application.Interfaces;
 using TransactionService.Infrastructure.Db;
+using TransactionService.Infrastructure.Kafka;
 using TransactionService.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,6 +24,7 @@ builder.Services.AddScoped<UserLoggedInHandler>();
 
 // Hosted service for RabbitMQ consumer
 builder.Services.AddHostedService<RabbitMqHostedService>();
+builder.Services.AddHostedService<KafkaConsumerService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
