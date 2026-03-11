@@ -26,10 +26,14 @@ builder.Services.AddHostedService<RabbitMqHostedService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "TRANSACTIONS.API v1");
+    });
 }
 
 app.UseHttpsRedirection();

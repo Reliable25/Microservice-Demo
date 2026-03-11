@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using UserService.Application.Commands;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/[Controller]")]
 public class UserController : ControllerBase
 {
     private readonly IMediator _mediator;

@@ -3,19 +3,21 @@ using TransactionService.Application.Interfaces;
 
 [ApiController]
 [Route("api/[controller]")]
-public class TransactionController : ControllerBase
+public class AccountController : ControllerBase
 {
     private readonly ITransactionRepository _repository;
 
-    public TransactionController(ITransactionRepository repository)
+    public AccountController(ITransactionRepository repository)
     {
         _repository = repository;
     }
 
-    [HttpGet()]
+    [HttpGet("GetAll")]
     public async Task<IActionResult> GetAll()
     {
-        var transactions = await _repository.GetAllAsync();
-        return Ok(transactions);
+        return Ok(new
+        {
+            Account = ""
+        });
     }
 }
